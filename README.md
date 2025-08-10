@@ -11,3 +11,4 @@ for i in {1..15}; do
   git add README.md
   GIT_AUTHOR_DATE="$commit_date" GIT_COMMITTER_DATE="$commit_date" git commit -m "Commit $i"
 done
+Discord name: buitrunghieu
